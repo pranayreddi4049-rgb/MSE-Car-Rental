@@ -1,0 +1,2 @@
+# Car Rental System dependencies
+# This project uses only Python's standard library, so no external packages are required.
